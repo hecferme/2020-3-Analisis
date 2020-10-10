@@ -15,5 +15,5 @@ select
 	'' as EstratoGrossAmount,
 	'' as EstratoDiscountAmount,
 	'' as EstratoNetAmount
---INTO DWNorthWind.dbo.FactOrderDetails
+INTO DWNorthWind.dbo.FactOrderDetails
 from [Order Details] od;
