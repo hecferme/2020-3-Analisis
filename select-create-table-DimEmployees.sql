@@ -25,7 +25,7 @@ SELECT
 	end as ReportsToFullName,
 	'' as [EstratificacionEdad],
 	'' as [EstratificacionAntiguedad]
---INTO DWNorthWind.dbo.DimEmployees
+INTO DWNorthWind.dbo.DimEmployees
 FROM Employees e
 	left outer join Employees e2
 		on e.ReportsTo = e2.EmployeeID;
