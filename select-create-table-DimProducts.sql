@@ -8,7 +8,11 @@ SELECT
 	Suppliers.City, Categories.CategoryName, 
 	Products.QuantityPerUnit, Products.UnitPrice,
 	Products.UnitsInStock, Products.UnitsOnOrder, 
-	Products.ReorderLevel, Products.Discontinued
+	Products.ReorderLevel, Products.Discontinued,
+	'' EstratificacionUnitPrice,
+	'' EstratificacionUnitsInStock,
+	'' EstratificacionOnOrder,
+	'' EstratificacionReorderLevel
 INTO DWNorthWind.dbo.DimProducts
 FROM Products 
 	INNER JOIN Categories 

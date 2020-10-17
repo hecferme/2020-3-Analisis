@@ -23,7 +23,11 @@ CREATE TABLE [dbo].[DimProducts](
 	[UnitsInStock] [smallint] NULL,
 	[UnitsOnOrder] [smallint] NULL,
 	[ReorderLevel] [smallint] NULL,
-	[Discontinued] [bit] NOT NULL
+	[Discontinued] [bit] NOT NULL,
+	[EstratificacionUnitPrice] [varchar](50) NOT NULL,
+	[EstratificacionUnitsInStock] [varchar](50) NOT NULL,
+	[EstratificacionOnOrder] [varchar](50) NOT NULL,
+	[EstratificacionReorderLevel] [varchar](50) NOT NULL
 ) ON [PRIMARY]
 GO
 
