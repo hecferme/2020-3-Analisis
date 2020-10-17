@@ -26,7 +26,7 @@ CREATE TABLE [dbo].[DimEmployees](
 	[City] [nvarchar](15) NULL,
 	[Region] [nvarchar](15) NOT NULL,
 	[Country] [nvarchar](15) NULL,
-	[ReportsToFullName] [nvarchar](57) NOT NULL,
+	[ReportsToFullName] [nvarchar](60) NOT NULL,
 	[EstratificacionEdad] [varchar](50) NOT NULL,
 	[EstratificacionAntiguedad] [varchar](50) NOT NULL
 ) ON [PRIMARY]
