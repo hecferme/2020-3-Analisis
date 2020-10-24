@@ -3,6 +3,20 @@
     <Configuration>
       <Name>Development</Name>
       <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>DW North Wind</Id>
+            <Name>DW North Wind</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAe3ktR4wMBkSmLxZwV1SfQQAAAAAcAAAARABXACAATgBvAHIAdABoACAAVwBpAG4AZAAAABBmAAAAAQAAIAAAAN/auIOKiN8MwbjrJ8F28pg0sDzvzAkaIHt8z2IVIwDcAAAAAA6AAAAAAgAAIAAAAD6stxmx+LZrwVhBrKjlhvNzvYSixFdQJCPWJSiFt1dlEAAAADNBoLHORYOoubOGDQIRBOdAAAAArzMraZuciEXtVBL2TYNPVlmqr9h7JFvFkCsMnyfUgcHoDiOnPos4BIo9kNQh8J+LZzzKW8yAE+K4JxTOes1jmQ==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>DW North Wind</Id>
+            <Name>DW North Wind</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAe3ktR4wMBkSmLxZwV1SfQQAAAAAcAAAARABXACAATgBvAHIAdABoACAAVwBpAG4AZAAAABBmAAAAAQAAIAAAAHnHR6xR8F2lGO+k68eX729oD3NIWX5GagtHIg4bPlYOAAAAAA6AAAAAAgAAIAAAAKtMAPS7LqFo9DP1FeEBcM2suegJn8kKYebYO7OyVhORIAAAAO9S6vqHXqE/k5mQxqxXnk4PDzSsjclVZSE1UKg3xrr2QAAAAOGSuebHoTJqbecmYjiZX1pVI8dliCnXIimgBcNjxJkpwNz3MzsmZsB+rCbQfdGmB7HNwqAgmKHdPjdQMvd+jIk=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
         <TargetServer>localhost</TargetServer>
         <TargetDatabase>MiPrimerCubo</TargetDatabase>
         <StartObject>
