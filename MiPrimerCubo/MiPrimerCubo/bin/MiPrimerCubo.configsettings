@@ -5,9 +5,8 @@
         <ID>DW North Wind</ID>
         <ConnectionString>Provider=SQLNCLI11.1;Data Source=hecferme-aws-sql-server;Persist Security Info=True;Password=;User ID=;Initial Catalog=DWNorthWind</ConnectionString>
         <ImpersonationInfo>
-          <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">ImpersonateAccount</ImpersonationMode>
-          <Account xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">hecferme-aws-sql-server\admin</Account>
-          <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">PasswordRemoved</ImpersonationInfoSecurity>
+          <ImpersonationMode xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">ImpersonateServiceAccount</ImpersonationMode>
+          <ImpersonationInfoSecurity xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">Unchanged</ImpersonationInfoSecurity>
         </ImpersonationInfo>
       </DataSource>
     </DataSources>
@@ -16,13 +15,10 @@
         <ID>Fact Orders</ID>
       </Dimension>
       <Dimension>
-        <ID>Dim Products</ID>
-      </Dimension>
-      <Dimension>
         <ID>Dim Employees</ID>
       </Dimension>
       <Dimension>
-        <ID>Dim Time</ID>
+        <ID>Time</ID>
       </Dimension>
     </Dimensions>
     <Cubes>

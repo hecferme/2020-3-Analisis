@@ -19,14 +19,14 @@
     <ObjectSnapshots>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
-        <TimeStamp>Z4h4m6ZGezrtqZK5wgkfAEcDTfk=10/24/2020 4:17:45 PM10/24/2020 2:34:10 PM</TimeStamp>
+        <TimeStamp>mZVCCPOXyXeI6S+Ptru8zO79Y5Q=10/31/2020 3:17:29 PM10/24/2020 2:34:10 PM</TimeStamp>
         <ID>
           <String>DW North Wind</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>AdConjF7XgbGuNMfSwB7/cuSzcQ=10/24/2020 3:25:23 PM10/24/2020 2:38:36 PM</TimeStamp>
+        <TimeStamp>2/sV00fZKrHxtLttqXWVLrZJ2F0=10/31/2020 3:21:12 PM10/24/2020 2:38:36 PM</TimeStamp>
         <ID>
           <String>DW North Wind</String>
         </ID>
@@ -40,13 +40,6 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>bY5l2HETthxYl7ULvFqNpz4VVvI=10/24/2020 3:37:09 PM10/24/2020 3:32:51 PM</TimeStamp>
-        <ID>
-          <String>Dim Products</String>
-        </ID>
-      </ObjectSnapshot>
-      <ObjectSnapshot>
-        <Type>Microsoft.AnalysisServices.Dimension</Type>
         <TimeStamp>Ci5n9/9gEs1V+fIelkIZ5vhdn1s=10/24/2020 3:39:09 PM10/24/2020 3:32:51 PM</TimeStamp>
         <ID>
           <String>Dim Employees</String>
@@ -54,14 +47,14 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>1duRJaTzM3HuA/3Z0HeRs2k5LNE=10/24/2020 3:44:15 PM10/24/2020 3:44:15 PM</TimeStamp>
+        <TimeStamp>4ZCiLgZv4sHxHiZ90y0vxcqeSaI=10/31/2020 2:46:51 PM10/31/2020 2:46:46 PM</TimeStamp>
         <ID>
-          <String>Dim Time</String>
+          <String>Time</String>
         </ID>
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>pmWUQlUF7mvnIX+FpNJpFufJmxw=10/24/2020 4:04:58 PM10/24/2020 3:32:51 PMvcDX9cuk/1figciObqYQVDqSvyE=10/24/2020 3:32:52 PM10/24/2020 3:32:51 PM</TimeStamp>
+        <TimeStamp>t80Z5K9JZBqqUJBjDvhk7pUp9AA=10/31/2020 3:28:39 PM10/24/2020 3:32:51 PMvcDX9cuk/1figciObqYQVDqSvyE=10/24/2020 3:32:52 PM10/24/2020 3:32:51 PM</TimeStamp>
         <ID>
           <String>DW North Wind</String>
         </ID>
@@ -69,7 +62,7 @@
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
-      <TimeStamp>hXJTNmbBZKF6FH0Gvkth1v3xDT0=10/17/2020 2:27:40 PM10/17/2020 2:27:40 PM</TimeStamp>
+      <TimeStamp>QvfeyRh4wu/LgI8tAGaABBY9l3U=10/24/2020 7:59:23 PM10/17/2020 2:27:40 PM</TimeStamp>
       <ID>
         <String>MiPrimerCubo</String>
       </ID>
@@ -78,5 +71,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2020-10-24T16:17:54.086667Z</LastDeployed>
+  <LastDeployed>2020-10-31T15:28:40.033333Z</LastDeployed>
 </DeploymentSnapshot>

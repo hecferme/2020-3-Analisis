@@ -24,16 +24,12 @@
       <FullPath>Fact Orders.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Dim Products.dim</Name>
-      <FullPath>Dim Products.dim</FullPath>
-    </ProjectItem>
-    <ProjectItem>
       <Name>Dim Employees.dim</Name>
       <FullPath>Dim Employees.dim</FullPath>
     </ProjectItem>
     <ProjectItem>
-      <Name>Dim Time.dim</Name>
-      <FullPath>Dim Time.dim</FullPath>
+      <Name>Time.dim</Name>
+      <FullPath>Time.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>
