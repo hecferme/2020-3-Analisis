@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/2020-3-Analisis/v16
+/.vs
+/MiPrimerCubo/.vs/MiPrimerCubo/v16
