@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "MiPrimerCubo", "MiPrimerCubo\MiPrimerCubo.dwproj", "{82EC35EE-E1F5-4D6D-BD0E-1EB546A51E62}"
 EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "MiPrimerPaquete", "MiPrimerPaquete\MiPrimerPaquete.dtproj", "{E7F88535-5207-4EBB-8275-0CEA578D06E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
@@ -13,6 +15,8 @@ Global
 		{82EC35EE-E1F5-4D6D-BD0E-1EB546A51E62}.Development|Default.ActiveCfg = Development
 		{82EC35EE-E1F5-4D6D-BD0E-1EB546A51E62}.Development|Default.Build.0 = Development
 		{82EC35EE-E1F5-4D6D-BD0E-1EB546A51E62}.Development|Default.Deploy.0 = Development
+		{E7F88535-5207-4EBB-8275-0CEA578D06E1}.Development|Default.ActiveCfg = Development
+		{E7F88535-5207-4EBB-8275-0CEA578D06E1}.Development|Default.Build.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
